@@ -136,4 +136,4 @@ Where Charge Residues and Flexible Residues .
 
 ---
 
-_Developed by Janssen Carl T. Amaya and John Mark Galagar | University of Cebu_
+_Developed by Janssen Carl T. Amaya and John Mark Galagar_
