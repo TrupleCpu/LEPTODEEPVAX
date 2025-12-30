@@ -10,7 +10,7 @@ from src.engine import RetrosyntheticEngine
 from src.visualizer import AcademicVisualizer
 
 # --- SETTINGS ---
-EMAIL = "janamaya438@gmail.com"
+EMAIL = "youremail@gmail.com"
 QUERY = "Leptospira interrogans[Organism] AND outer membrane protein"
 EPOCHS = 100
 MAX_RESULTS = 100
